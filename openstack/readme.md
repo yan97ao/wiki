@@ -1,3 +1,13 @@
+# Neutron
+
+* [深入理解 Neutron -- OpenStack 网络实现](https://yeasy.gitbooks.io/openstack_understand_neutron/)  
+兼顾快速入门和深入分析的neutron网络数据面介绍
+
+# Kolla
+
+* [OpenStack Kolla deployment from RDO packages](http://egonzalez.org/page/9/)  
+kolla多节点部署
+
 # Rally
 
 * [Rally OpenStack benchmarking from Docker containers](http://egonzalez.org/rally-openstack-benchmarking-from-docker-containers/)  
